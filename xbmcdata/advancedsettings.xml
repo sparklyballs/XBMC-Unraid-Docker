@@ -1,19 +1,19 @@
 <advancedsettings>
 
 <videodatabase>
-        <type>mysql</type>
-        <host>192.168.1.90</host>
-        <port>3306</port>
-        <user>xbmc</user>
-        <pass>xbmc</pass>
+        <type>mysql</type>         <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->
+        <host>192.168.1.90</host>  <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->
+        <port>3306</port>          <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->
+        <user>xbmc</user>          <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->
+        <pass>xbmc</pass>          <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->
 </videodatabase>
 
 <musicdatabase>
-        <type>mysql</type>
-        <host>192.168.1.90</host>
-        <port>3306</port>
-        <user>xbmc</user>
-        <pass>xbmc</pass>
+        <type>mysql</type>         <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->   
+        <host>192.168.1.90</host>  <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->
+        <port>3306</port>          <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->
+        <user>xbmc</user>          <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->
+        <pass>xbmc</pass>          <!-- EDIT THESE VALUES TO MATCH YOUR LOCAL SETUP-->
 </musicdatabase>
 
 <videolibrary>
