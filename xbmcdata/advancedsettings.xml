@@ -34,6 +34,10 @@
 </videoscanner>
 <splash>false</splash>
 <bginfoloadermaxthreads>2</bginfoloadermaxthreads>
+<myvideos>
+<extractflags>false</extractflags>
+<extractthumb>false</extractthumb>
+</myvideos>
 <lookandfeel>
 <enablerssfeeds>false</enablerssfeeds>
 </lookandfeel>
